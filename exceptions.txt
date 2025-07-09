@@ -1,0 +1,23 @@
+built-in and user defied 
+Excepion- base class for all exeptions
+StopIteration-generated method doesnot point any object
+SystemExit-sys.exit()
+StandardError-except StopIteration and system exit
+ArthematicError-math calc errors
+OverflowError-numerical cal exceed
+ZeroDivisionError-0 divide
+FloatiPoitError-3.14156987
+AssertionError-assert statement fails
+AttributeError-no balance of attributes in functions
+EOFError-no input or output upto end of file while the funcionlity and all are good
+ImportError- reading file error
+KeyboardInterrupt-when the operation is not performed and keyboard is interrupted in between
+LookupError-Lookup errors generally seen in loops
+InexError-
+NameError-
+KeyError-
+EnvironmentError-
+IOError-
+SyntaxError-
+RutimeError-
+TypeError-
